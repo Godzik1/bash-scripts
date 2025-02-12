@@ -1,4 +1,4 @@
-# Bash Scripts Repository 🚀
+# Bash Scripts Repository 
 
 This repository contains useful Bash scripts for system administration and automation.
 
